@@ -1,0 +1,24 @@
+[
+    {
+        "model": "accounts.department",
+        "pk": 1,
+        "fields": {
+            "name": "Engineering"
+        }
+    },
+    {
+        "model": "accounts.department",
+        "pk": 2,
+        "fields": {
+            "name": "IT"
+        }
+    },
+    {
+        "model": "accounts.department",
+        "pk": 3,
+        "fields": {
+            "name": "Finance"
+        }
+    }
+]
+
